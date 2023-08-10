@@ -46,7 +46,7 @@ github.com/magiconair/properties
 github.com/mattn/go-colorable
 # github.com/mattn/go-isatty v0.0.8
 github.com/mattn/go-isatty
-# github.com/miekg/dns v1.1.22
+# github.com/miekg/dns v1.1.25
 github.com/miekg/dns
 # github.com/mitchellh/mapstructure v1.1.2
 github.com/mitchellh/mapstructure
